@@ -1,6 +1,6 @@
 Hello! I'm Rob Larsen and this is my corner of the GitHub universe. If you're here you might want to know a little bit about me, so here's what I've got:
 
-* I'm a long-time open source contributor and maintainer. Currently I'm owner of the @h5bp organization and the maintainer of [HTML5-boilerplate](https://github.com/h5bp/html5-boilerplate), [create-HTML5-boilerplate](https://github.com/h5bp/create-html5-boilerplate), [main.css](https://github.com/h5bp/main.css), [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) and several other personal projects (most of which are related to collectible comic books.)  
+* I'm a long-time open source contributor and maintainer. Currently I'm owner of the @h5bp organization and the maintainer of [HTML5-boilerplate](https://github.com/h5bp/html5-boilerplate), [create-html5-boilerplate](https://github.com/h5bp/create-html5-boilerplate), [main.css](https://github.com/h5bp/main.css), [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) and several other personal projects (most of which are related to collectible comic books.)  
 * I've written a [bunch of books](https://www.amazon.com/Rob-Larsen/e/B007EC5FL6) with O'Reilly, Packt and Wiley. I've written about the web in general (The Uncertain Web from O'Reilly) and core web technologies (HTML,CSS, JavaScript and SVG)
 * Professionally I have worked for the past half decade in a couple of different technology leadership posititions in financial services. 
 
