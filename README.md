@@ -1,9 +1,25 @@
-Hello! I'm Rob Larsen and this is my corner of the GitHub universe. If you're here you might want to know a little bit about me, so here's what I've got:
+# Hello, I'm Rob Larsen 👋
 
-* I'm a long-time open source contributor and maintainer. Currently I'm owner of the @h5bp organization and the maintainer of [HTML5-boilerplate](https://github.com/h5bp/html5-boilerplate), [create-html5-boilerplate](https://github.com/h5bp/create-html5-boilerplate), [main.css](https://github.com/h5bp/main.css), [Front-end Developer Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) and several other personal projects related to collectible comic books. 
-* I've written [five books](https://www.amazon.com/Rob-Larsen/e/B007EC5FL6) with O'Reilly, Packt and Wiley. I've written about the web in general (The Uncertain Web from O'Reilly) and core web technologies (HTML,CSS, JavaScript and SVG)
-* Professionally I work as a development manager at a private equity firm.  
+Welcome to my corner of the GitHub universe. I am an enterprise technology executive, a long-time open-source contributor, and a published technical author. My work focuses entirely on building and governing software systems with industrial-strength engineering discipline.
 
-Feel free to [contact me](mailto:rob@htmlcssjavascript.com) if you're interested in talking about freelance projects (I'm mostly interested in SVG/data visualization,) open source projects (feel free to pitch projects we can host @h5bp) or writing opportunities.
+## 🛠️ Open Source Stewardship & Core Projects
 
-FYI: [you can also sponsor me for my open source work](https://github.com/sponsors/roblarsen) 🙏
+* **HTML5 Boilerplate (@h5bp):** I am the owner of the organization and primary maintainer of `html5-boilerplate`, `create-html5-boilerplate`, and `main.css`. 
+* **Front-end Developer Interview Questions:** Maintainer of one of the industry's most widely utilized open repositories for evaluating engineering talent.
+* **Alternative Asset Infrastructure:** Currently building and maintaining specialized, type-safe data pipelines and schema architectures designed to standardize provenance, grading metrics, and market liquidity velocity for high-value collectibles.
+
+## 📚 Technical Publications
+
+I have spent decades codifying web standards and teaching engineering best practices. I am the author of five books for **O'Reilly**, **Wiley**, and **Packt**, covering core web technologies (HTML, CSS, JavaScript, SVG) and macro architecture trends (*The Uncertain Web*, O'Reilly).
+
+## 💼 Professional & Advisory Operations
+
+Professionally, I operate **Palatino Consulting**, serving as a fractional operator, technology strategist, and board advisor to fintech platforms, venture-backed tech startups, and digital alternative asset marketplaces. 
+
+---
+
+### 📬 Let's Connect & Collaborate
+
+* **Enterprise Strategy & Board Roles:** Reach out via my advisory practice at rob.larsen@palatinoconsulting.com if your organization is navigating high-throughput systems architecture or data audits.
+* **Open Source Collaboration:** Have an idea or a project that belongs under the `@h5bp` umbrella? Open an issue or pitch it.
+* **Sponsorship:** If you value my open-source stewardship and want to support ongoing infrastructure maintenance, you can [sponsor me here](https://github.com/sponsors/roblarsen) 🙏.
