@@ -22,4 +22,5 @@ Professionally, I operate **Palatino Consulting**, serving as a fractional opera
 
 * **Enterprise Strategy & Board Roles:** Reach out via my advisory practice at rob.larsen@palatinoconsulting.com if your organization is navigating high-throughput systems architecture or data audits.
 * **Open Source Collaboration:** Have an idea or a project that belongs under the `@h5bp` umbrella? Open an issue or pitch it.
+* **The Specialty Sandbox (Data Vis & SVG):** While my primary focus is strategic, I still love the craftsmanship of pure code. If you are a platform facing a unique, highly specialized data visualization bottleneck or an advanced SVG rendering problem and need an expert to build a production-ready solution, let's talk.
 * **Sponsorship:** If you value my open-source stewardship and want to support ongoing infrastructure maintenance, you can [sponsor me here](https://github.com/sponsors/roblarsen) 🙏.
